@@ -1,0 +1,8 @@
+ronsard44djoumessi
+lpmoehE4NPQDts8Q
+mongodb+srv://ronsard44djoumessi:lpmoehE4NPQDts8Q@backend-repo11.5w67zxp.mongodb.net/?retryWrites=true&w=majority
+
+
+mongodb+srv://ronsard44djoumessi:lpmoehE4NPQDts8Q@backend-repo11.5w67zxp.mongodb.net/
+
+mongodb+srv://ronsard44djoumessi:lpmoehE4NPQDts8Q@backend-repo11.5w67zxp.mongodb.net/?retryWrites=true&w=majority
